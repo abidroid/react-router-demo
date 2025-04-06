@@ -1,4 +1,5 @@
 function Products() {
+    return <h2>Our Products</h2>;
 
 }
 
